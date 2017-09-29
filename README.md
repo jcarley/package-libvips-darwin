@@ -10,3 +10,5 @@ the relative `@rpath` using `install_name_tool`.
 
 The resulting file is transferred to S3 by setting
 [various environment variables](https://docs.travis-ci.com/user/uploading-artifacts/).
+
+Kick it
